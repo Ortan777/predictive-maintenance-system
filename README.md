@@ -2,7 +2,8 @@
 
 An end-to-end monitoring platform that collects system metrics (CPU, RAM, etc.) from multiple devices, analyzes the data using machine learning to predict potential failures, and provides a real-time web dashboard for visualization and control.
 
-![Dashboard Screenshot](https://i.imgur.com/your-screenshot-url.png) 
+![Dashboard Screenshot]<img width="1823" height="897" alt="Screenshot 2025-09-20 121825 - Copy" src="https://github.com/user-attachments/assets/b0512a39-c85a-4654-bc26-b217077c7e20" />
+
 ---
 
 ## ✨ Key Features

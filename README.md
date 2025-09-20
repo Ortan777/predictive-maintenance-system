@@ -2,11 +2,11 @@
 
 An end-to-end monitoring platform that collects system metrics (CPU, RAM, etc.) from multiple devices, analyzes the data using machine learning to predict potential failures, and provides a real-time web dashboard for visualization and control.
 
-![Dashboard Screenshot]<img width="1823" height="897" alt="Screenshot 2025-09-20 121825 - Copy" src="https://github.com/user-attachments/assets/b0512a39-c85a-4654-bc26-b217077c7e20" />
+[Dashboard Screenshot]<img width="1823" height="897" alt="Screenshot 2025-09-20 121825 - Copy" src="https://github.com/user-attachments/assets/b0512a39-c85a-4654-bc26-b217077c7e20" />
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 * **Multi-Device Monitoring:** Agents can be deployed on any number of client machines (laptops, servers, etc.) to send metrics to a central host.
 * **Predictive Failure Analysis:** A machine learning model analyzes incoming metrics to calculate a real-time failure probability score for each device.
@@ -16,7 +16,7 @@ An end-to-end monitoring platform that collects system metrics (CPU, RAM, etc.) 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -28,7 +28,7 @@ An end-to-end monitoring platform that collects system metrics (CPU, RAM, etc.) 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 Follow these instructions to set up and run the project on your local network.
 
@@ -43,7 +43,7 @@ This is the main "command center" that runs the backend and serves the frontend.
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/YourUsername/Your-Repo-Name.git](https://github.com/YourUsername/Your-Repo-Name.git)
+git clone [https://github.com/Ortan777/predictive-maintenance-system.git]
 cd Your-Repo-Name
 
 # 2. Create and activate a virtual environment
